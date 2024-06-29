@@ -1,0 +1,33 @@
+{
+  "collectionName": "components_experience_experiences",
+  "info": {
+    "displayName": "Experience",
+    "icon": "brush",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "companyName": {
+      "type": "string"
+    },
+    "city": {
+      "type": "string"
+    },
+    "state": {
+      "type": "string"
+    },
+    "stratDate": {
+      "type": "string",
+      "default": "start"
+    },
+    "endDate": {
+      "type": "string"
+    },
+    "workSummery": {
+      "type": "richtext"
+    }
+  }
+}
